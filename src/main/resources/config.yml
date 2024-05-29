@@ -1,0 +1,6 @@
+messages:
+  cooldown: "You must wait %time% seconds to use this command again."
+
+cooldowns:
+  spawn: 10 #10 seconds to reuse /spawn command
+  nvg: 60 #1 minute to reuse /nvg command

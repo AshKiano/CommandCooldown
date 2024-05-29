@@ -1,0 +1,9 @@
+name: CommandCooldown
+version: '${project.version}'
+main: com.ashkiano.commandcooldown.CommandCooldown
+api-version: 1.16
+authors: [ AshKiano ]
+commands:
+  cooldown:
+    description: Sets the cooldown time for commands.
+    usage: /cooldown <command> <seconds>
